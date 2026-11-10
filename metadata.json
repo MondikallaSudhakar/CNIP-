@@ -1,0 +1,6 @@
+{
+  "name": "MediNet – Hospital Emergency Communication Network",
+  "description": "Intelligent, reliable, and fault-tolerant hospital interdepartmental communication system demonstrating Computer Networks algorithms: framing, CRC error detection, flow control, Go-Back-N ARQ, Dijkstra routing, NS2 trace analysis, and Wireshark PCAP inspection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
